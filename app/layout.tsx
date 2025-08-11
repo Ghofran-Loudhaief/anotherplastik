@@ -6,7 +6,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Another PlastiK',
     icons: {
-        icon: '/favicon.ico',
+        icon: '/favicon-32x32.png',
     },
 }
 
